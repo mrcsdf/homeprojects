@@ -21,8 +21,9 @@ Building a traditional brick pizza oven is a great project, and with firebricks,
    - Add a chimney to vent smoke properly. Afterward, clad the dome with an additional layer of bricks or stucco for aesthetics and weather protection【9†source】.
 
 ### Resources:
-For **detailed videos** and instructions on building similar ovens, you can refer to this [Crust Kingdom guide](https://www.crustkingdom.com/how-to-build-a-pizza-oven/) which provides step-by-step details, including video tutorials. Additionally, Family Handyman has an excellent visual [guide](https://www.familyhandyman.com/project/build-a-brick-pizza-oven/) on traditional brick ovens【8†source】【9†source】.
-[YouTube DIY](https://www.youtube.com/watch?v=qd4vbWaB9Ls)
+For **detailed videos** and instructions on building similar ovens, you can refer to this [YouTube DIY](https://www.youtube.com/watch?v=qd4vbWaB9Ls)
+ which provides step-by-step details, including video tutorials. Additionally, Family Handyman has an excellent visual [guide](https://www.familyhandyman.com/project/how-to-build-a-brick-pizza-oven/?utm_source=youtube&utm_medium=organicsocial&utm_content=fhm) on traditional brick ovens【8†source】【9†source】.
+ [Crust Kingdom guide](https://www.crustkingdom.com/) - general reviews on Pizza making equipment.
 
 ### Material Purchase:
 For firebricks, vermiculite, and other materials, you can check out local suppliers such as **Home Depot**, **Lowe's**, or **specialized masonry stores** near **Great Falls, VA**. These stores typically stock firebricks and refractory mortar needed for the build【9†source】【11†source】.
