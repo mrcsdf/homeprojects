@@ -1,80 +1,64 @@
-Absolutely, Marcus. Here’s a comprehensive, no-nonsense guide to repairing your Bambu Lab Automatic Material System (AMS), complete with a detailed tool checklist, video tutorials, and purchasing links.
+# Bambu Lab AMS Repair Toolkit & Guide
 
-⸻
+This guide lists the essential tools, replacement parts, and tutorials required to diagnose and repair the Bambu Lab Automatic Material System (AMS).
 
-🧰 Essential Tools & Supplies
+---
 
-Tool/Supply	Purpose	Purchase Link
-Hex Keys (H1.5mm, H2.0mm, H2.5mm)	Disassembling AMS components	Wiha Hex Key Set
-Precision Phillips Screwdrivers (PH00, PH0)	Handling small screws	iFixit Precision Set
-Flat Tweezers	Removing filament debris	Precision Tweezers
-Needle-Nose Pliers	Gripping and pulling filament	Klein Tools Pliers
-Flush Cutters	Trimming filament cleanly	Hakko Flush Cutters
-Compressed Air or Brush	Cleaning dust from gears and sensors	Dust-Off Compressed Gas Duster
-PTFE or Lithium Grease	Lubricating gears and bearings	Super Lube Synthetic Grease
-PTFE Tubes (4mm OD / 2mm ID)	Replacing worn or deformed tubes	Capricorn PTFE Tubing
-Multimeter (optional)	Testing sensor or motor continuity	AstroAI Digital Multimeter
+## 🧰 Essential Tools & Supplies
 
+| Tool/Supply | Purpose | Purchase Link |
+|-------------|---------|---------------|
+| **Hex Keys (H1.5mm, H2.0mm, H2.5mm)** | Disassembling AMS components | [Wiha Hex Key Set](https://www.amazon.com/dp/B000T9VK56) |
+| **Precision Phillips Screwdrivers (PH00, PH0)** | Handling small screws | [iFixit Precision Set](https://www.amazon.com/dp/B01GF0KV6G) |
+| **Flat Tweezers** | Removing filament debris | [Precision Tweezers](https://www.amazon.com/dp/B07P6MZPK3) |
+| **Needle-Nose Pliers** | Gripping and pulling filament | [Klein Tools Pliers](https://www.amazon.com/dp/B0006M6Y5M) |
+| **Flush Cutters** | Trimming filament cleanly | [Hakko Flush Cutters](https://www.amazon.com/dp/B00FZPDG1K) |
+| **Compressed Air or Brush** | Cleaning dust from gears and sensors | [Dust-Off Compressed Gas Duster](https://www.amazon.com/dp/B00006IAOR) |
+| **PTFE or Lithium Grease** | Lubricating gears and bearings | [Super Lube Synthetic Grease](https://www.amazon.com/dp/B000XBH9HI) |
+| **PTFE Tubes (4mm OD / 2mm ID)** | Replacing worn or deformed tubes | [Capricorn PTFE Tubing](https://www.amazon.com/dp/B07D6X6F5L) |
+| **Multimeter** *(optional)* | Testing sensor or motor continuity | [AstroAI Digital Multimeter](https://www.amazon.com/dp/B01ISAMUA6) |
 
+---
 
-⸻
+## 🔧 Recommended Spare Parts
 
-🔧 Recommended Spare Parts
+| Part | Notes | Purchase Link |
+|------|-------|---------------|
+| **AMS Feeder Gears** | Prone to wear or misalignment | [Bambu Lab Official Store](https://us.store.bambulab.com/collections/spare-parts-for-ams) |
+| **AMS Roller with Bearings** | Can wear or get stuck | [Bambu Lab Official Store](https://us.store.bambulab.com/collections/spare-parts-for-ams) |
+| **PTFE Tube Connectors** | May crack over time | [Asbrot PTFE Connectors](https://www.amazon.com/Asbrot-Connector-Bambu-Lab-Anti-Oxidation/dp/B0DCKDBB19) |
+| **AMS Lid Latch Springs** | For broken lid mechanisms | [Printables – 3D Print](https://www.printables.com/model/954687-lid-latch-replacement-for-bambu-x-and-p-series-ams) |
+| **Filament Detection Sensor** | For detection failures | [Bambu Lab Official Store](https://us.store.bambulab.com/collections/spare-parts-for-ams) |
+| **AMS CAN Bus Cable** | For communication issues | [TEWIRROW CAN Bus Cable](https://www.amazon.com/TEWIRROW-Original-59inch-Extension-Printer/dp/B0DWX3V1HW) |
 
-Part	Notes	Purchase Link
-AMS Feeder Gears	Prone to wear or misalignment	Bambu Lab Official Store
-AMS Roller with Bearings	Can wear or get stuck	Bambu Lab Official Store
-PTFE Tube Connectors	May crack over time	Amazon – Asbrot PTFE Connectors
-AMS Lid Latch Springs	Lids may not close properly without tension	Printables – Lid Latch Replacement
-Filament Detection Sensor	If filament not detected reliably	Bambu Lab Official Store
-Cable for AMS CAN Bus	Rare but sometimes faulty	Amazon – TEWIRROW Bambu Bus Cable
+---
 
+## 🎥 Video Tutorials
 
+- [**AMS Teardown & Cleaning** (by ModBot)](https://www.youtube.com/watch?v=xc5LYqGlTxQ)
+- [**Fixing Common AMS Issues**](https://www.youtube.com/watch?v=uF7Ir771Tq8)
+- [**Removing Jammed Filament**](https://www.youtube.com/watch?v=TjAco4BvD-E)
+- [**Replacing PTFE Tubes**](https://www.youtube.com/watch?v=FMZpHgd73Nw)
+- [**AMS Hub Unit Replacement**](https://www.youtube.com/watch?v=A8pOlJ8pn58)
 
-⸻
+---
 
-🎥 Video Tutorials
-	1.	Comprehensive AMS Repair and Cleaning Guide
-	•	A detailed teardown for cleaning and upgrading the AMS.
-	•	Watch on YouTube
-	2.	Fixing Common AMS Issues
-	•	Quick fixes for common AMS problems.
-	•	Watch on YouTube
-	3.	Clearing Broken Filament from AMS
-	•	Step-by-step guide to remove broken filament.
-	•	Watch on YouTube
-	4.	Disassembling AMS Safely
-	•	Guide on dismantling AMS and replacing PTFE tubes.
-	•	Watch on YouTube
-	5.	AMS Hub Replacement
-	•	Replacing the internal AMS hub unit.
-	•	Watch on YouTube
+## ✅ Printable Bench Checklist
 
-⸻
-
-🛠️ Printable Tool Guide
-
-For a printable checklist to keep at your workbench, you can use the following template:
-
-AMS Repair Toolkit Checklist
-	•	Hex Keys (H1.5mm, H2.0mm, H2.5mm)
-	•	Precision Phillips Screwdrivers (PH00, PH0)
-	•	Flat Tweezers
-	•	Needle-Nose Pliers
-	•	Flush Cutters
-	•	Compressed Air or Brush
-	•	PTFE or Lithium Grease
-	•	PTFE Tubes (4mm OD / 2mm ID)
-	•	Multimeter (optional)
-	•	AMS Feeder Gears
-	•	AMS Roller with Bearings
-	•	PTFE Tube Connectors
-	•	AMS Lid Latch Springs
-	•	Filament Detection Sensor
-	•	Cable for AMS CAN Bus
-
-Feel free to print this checklist and mark off items as you acquire them.
-
-⸻
-
-If you need further assistance or specific guidance on any of the repair steps, feel free to ask!
+```text
+AMS Repair Toolkit Checklist:
+- [ ] Hex Keys (H1.5mm, H2.0mm, H2.5mm)
+- [ ] Precision Phillips Screwdrivers (PH00, PH0)
+- [ ] Flat Tweezers
+- [ ] Needle-Nose Pliers
+- [ ] Flush Cutters
+- [ ] Compressed Air or Brush
+- [ ] PTFE or Lithium Grease
+- [ ] PTFE Tubes (4mm OD / 2mm ID)
+- [ ] Multimeter (optional)
+- [ ] AMS Feeder Gears
+- [ ] AMS Roller with Bearings
+- [ ] PTFE Tube Connectors
+- [ ] AMS Lid Latch Springs
+- [ ] Filament Detection Sensor
+- [ ] AMS CAN Bus Cable
